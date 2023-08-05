@@ -13,4 +13,16 @@
 
 ----
 
+## 2011 (1)
+
+### 2011 August (1)
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Ricky Peterson](../../topics/ricky-peterson/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
+
+----
+
 [Home](../index.md)

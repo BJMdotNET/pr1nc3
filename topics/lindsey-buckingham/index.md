@@ -1,5 +1,27 @@
 # Lindsey Buckingham
 
+## 2011 (2)
+
+### 2011 September (1)
+
+ - [**"Stevie Nicks: ‘I turned down Prince’s offer to write ‘Purple Rain’ lyrics’ -- Ex-Fleetwood Mac singer says she was too “scared” to pen words for classic track"**](https://www.nme.com/news/music/stevie-nicks-15-1279343)
+    - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
+    - on 16 September 2011
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/stevie-nicks-15-1279343))
+
+----
+
+### 2011 August (1)
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Ricky Peterson](../../topics/ricky-peterson/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
+
+----
+
 ## 2009 (1)
 
 ### 2009 July (1)

@@ -35,7 +35,7 @@
 
 ----
 
-## 2021 (2)
+## 2021 (3)
 
 ### 2021 October (1)
 
@@ -45,6 +45,16 @@
     - on 27 October 2021
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [Bob Merlis](../../../topics/bob-merlis/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Let’s Pretend We’re Married (song)](../../../topics/song/let-s-pretend-we-re-married/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Morris Day](../../../topics/morris-day/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/1999-album-prince/))
+
+----
+
+### 2021 July (1)
+
+ - [**"The classic Prince song inspired by Stevie Nicks"**](https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/)
+    - in [Far Out Magazine](../../../publications/f-j/far-out-magazine/index.md)
+    - on 9 July 2021
+    - about [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Kim Anderson](../../../topics/kim-anderson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/))
 
 ----
 

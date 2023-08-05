@@ -1,6 +1,16 @@
 # Apollonia
 
-## 2023 (1)
+## 2023 (2)
+
+### 2023 July (1)
+
+ - [**"SoundTRAX: "Purple Rain" -- SoundTRAX is a dive into notable music from iconic films and TV shows every Monday-Thursday at 8:10."**](https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain)
+    - in [www.lpm.org](../../publications/u-z/www-lpm-org/index.md)
+    - on 27 July 2023
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain))
+
+----
 
 ### 2023 March (1)
 
@@ -101,9 +111,17 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
 
-### 2016 May (1)
+### 2016 May (2)
+
+ - [**"Dancers recall Prince as a hard-working 'darling' in tights and ballet slippers -- The Twin Cities dance community recalls another side of the artist who first took ballet lessons as a kid. "**](http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/)
+    - in [Minneapolis Star Tribune (HTTP)](../../publications/k-o/minneapolis-star-tribune-http/index.md)
+    - on 5 May 2016
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Misty Copeland](../../topics/misty-copeland/index.md)
+    - ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
+
+<br />
 
  - [**"More Obscure Than a One-Hit Wonder? The Legends Who Never Had a Hit"**](https://www.billboard.com/articles/news/7356964/stealth-hit-wonder)
     - in [Billboard](../../publications/a-e/billboard/index.md)

@@ -1,6 +1,16 @@
 # Chanhassen Dinner Theatres
 
-## 2023 (1)
+## 2023 (2)
+
+### 2023 July (1)
+
+ - [**"For 50 years, singer Mary Jane Alm has been Minnesota's queen of near misses -- She will celebrate her golden jubilee with special guests at two Chanhassen concerts. "**](https://www.startribune.com/mary-jane-alm-mankato-minnesota-peter-yarrow-martina-mcbride-bob-gaudio-chanhassen-prince-bob-dylan/600292765/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 July 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [Minnesota Music Awards (event)](../../topics/event/minnesota-music-awards/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mary-jane-alm-mankato-minnesota-peter-yarrow-martina-mcbride-bob-gaudio-chanhassen-prince-bob-dylan/600292765/))
+
+----
 
 ### 2023 June (1)
 
@@ -61,7 +71,17 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
+
+### 2016 May (1)
+
+ - [**"Dancers recall Prince as a hard-working 'darling' in tights and ballet slippers -- The Twin Cities dance community recalls another side of the artist who first took ballet lessons as a kid. "**](http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/)
+    - in [Minneapolis Star Tribune (HTTP)](../../publications/k-o/minneapolis-star-tribune-http/index.md)
+    - on 5 May 2016
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Misty Copeland](../../topics/misty-copeland/index.md)
+    - ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
+
+----
 
 ### 2016 March (2)
 

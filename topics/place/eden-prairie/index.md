@@ -1,6 +1,32 @@
 # Eden Prairie (place)
 
-## 2023 (3)
+## 2023 (8)
+
+### 2023 August (3)
+
+ - [**"Purple road signs go up marking Prince Rogers Nelson Memorial Highway"**](https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 4 August 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/))
+
+<br />
+
+ - [**"MnDOT installs signs for Prince memorial highway"**](https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway)
+    - in [Fox 9](../../../publications/f-j/fox-9/index.md)
+    - on 3 August 2023
+    - about [Audubon Road (place)](../../../topics/place/audubon-road/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway))
+
+<br />
+
+ - [**"Purple signs dedicated Minnesota highway to Prince "**](https://www.youtube.com/watch?v=zBDa5WIxfcQ)
+    - in [YouTube](../../../publications/u-z/youtube/index.md)
+    - on 3 August 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=zBDa5WIxfcQ))
+
+----
 
 ### 2023 July (1)
 
@@ -23,14 +49,33 @@
 
 ----
 
-### 2023 May (1)
+### 2023 May (2)
+
+ - [**"New name looms for school formerly known as Henry -- In speaking to the students, it's clear which name they prefer."**](https://www.startribune.com/new-name-looms-for-school-formerly-known-as-henry/600276941/)
+    - by [Dave Berger](../../../authors/dave-berger/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 May 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-name-looms-for-school-formerly-known-as-henry/600276941/))
+
+<br />
 
  - [**"It's official: Using purple ink, Gov. Walz signs bill that renames stretch of highway after Prince"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/)
     - by [Reg Chapman](../../../authors/reg-chapman/index.md), [WCCO Staff](../../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 9 May 2023
-    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
+
+----
+
+### 2023 April (1)
+
+ - [**"Seven years after his death, MN lawmakers want to name a highway after Prince -- Highway 5 in Chanhassen would be “Prince Rogers Nelson Memorial Highway”"**](https://www.twincities.com/2023/04/21/mn-lawmakers-want-to-name-highway-for-prince/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 21 April 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/04/21/mn-lawmakers-want-to-name-highway-for-prince/))
 
 ----
 

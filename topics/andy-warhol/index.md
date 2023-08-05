@@ -1,8 +1,8 @@
 # Andy Warhol
 
-## 2023 (4)
+## 2023 (5)
 
-### 2023 May (4)
+### 2023 May (5)
 
  - [**"In Historic Decision, Supreme Court Rules Andy Warhol’s Images of Prince Violated Photographer’s Copyright"**](https://variety.com/2023/music/news/andy-warhol-prince-images-supreme-court-copyright-1235617622/)
     - by [Jem Aswad](../../authors/jem-aswad/index.md)
@@ -36,6 +36,14 @@
     - on 18 May 2023
     - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Joel Wachs](../../topics/joel-wachs/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/supreme-court-andy-warhol-prince-copyright-061a115f4ab137bcbe36fcc8fe0c921b))
+
+<br />
+
+ - [**"Supreme Court rules against Andy Warhol’s foundation in a case about a portrait he made of Prince "**](https://www.twincities.com/2023/05/18/supreme-court-rules-against-andy-warhols-foundation-in-a-case-about-a-portrait-he-made-of-prince/)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 18 May 2023
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Joel Wachs](../../topics/joel-wachs/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/05/18/supreme-court-rules-against-andy-warhols-foundation-in-a-case-about-a-portrait-he-made-of-prince/))
 
 ----
 

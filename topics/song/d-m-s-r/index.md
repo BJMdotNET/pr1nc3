@@ -1,5 +1,18 @@
 # D.M.S.R. (song)
 
+## 2023 (1)
+
+### 2023 August (1)
+
+ - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
+    - by [Jason Draper](../../../authors/jason-draper/index.md)
+    - in [Dig!](../../../publications/a-e/dig/index.md)
+    - on 3 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [James Brown](../../../topics/james-brown/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mick Jagger](../../../topics/mick-jagger/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/))
+
+----
+
 ## 2021 (1)
 
 ### 2021 October (1)
@@ -54,6 +67,18 @@
     - on 29 January 2018
     - about [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [fDeluxe](../../../topics/fdeluxe/index.md), [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Nicollet Avenue](../../../topics/nicollet-avenue/index.md), [Nicollet Mall (place)](../../../topics/place/nicollet-mall/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Soul Asylum](../../../topics/soul-asylum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Family](../../../topics/the-family/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063))
+
+----
+
+## 2016 (1)
+
+### 2016 May (1)
+
+ - [**"Dancers recall Prince as a hard-working 'darling' in tights and ballet slippers -- The Twin Cities dance community recalls another side of the artist who first took ballet lessons as a kid. "**](http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/)
+    - in [Minneapolis Star Tribune (HTTP)](../../../publications/k-o/minneapolis-star-tribune-http/index.md)
+    - on 5 May 2016
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chanhassen Dinner Theatres](../../../topics/chanhassen-dinner-theatres/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Glam Slam (place)](../../../topics/place/glam-slam/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md)
+    - ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
 
 ----
 

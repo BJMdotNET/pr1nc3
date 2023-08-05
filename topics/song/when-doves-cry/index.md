@@ -1,6 +1,17 @@
 # When Doves Cry (song)
 
-## 2023 (2)
+## 2023 (3)
+
+### 2023 August (1)
+
+ - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
+    - by [Jason Draper](../../../authors/jason-draper/index.md)
+    - in [Dig!](../../../publications/a-e/dig/index.md)
+    - on 3 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [James Brown](../../../topics/james-brown/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mick Jagger](../../../topics/mick-jagger/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/))
+
+----
 
 ### 2023 June (2)
 
@@ -53,7 +64,7 @@
 
 ----
 
-## 2021 (3)
+## 2021 (4)
 
 ### 2021 October (1)
 
@@ -62,6 +73,16 @@
     - on 25 October 2021
     - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/espectaculos-8e60df3c9df2d7a38992e6e5b001e46d))
+
+----
+
+### 2021 July (1)
+
+ - [**"The classic Prince song inspired by Stevie Nicks"**](https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/)
+    - in [Far Out Magazine](../../../publications/f-j/far-out-magazine/index.md)
+    - on 9 July 2021
+    - about [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Kim Anderson](../../../topics/kim-anderson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/))
 
 ----
 
@@ -87,7 +108,7 @@
 
 ----
 
-## 2020 (15)
+## 2020 (16)
 
 ### 2020 May (1)
 
@@ -96,6 +117,17 @@
     - on 19 May 2020
     - about [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/trip-wires-bono-pens-open-letters-prince-sinead-oconnor-22815725))
+
+----
+
+### 2020 April (1)
+
+ - [**"Our Prince wish list: 12 more items we hope to unearth from his fabled vault -- Here's a wish list of 12 cherished items from Prince's fabled vault."**](https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2020
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Bambi (song)](../../../topics/song/bambi/index.md), [Central High](../../../topics/central-high/index.md), [Dakota Jazz Club (place)](../../../topics/place/dakota-jazz-club/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Screwdriver (song)](../../../topics/song/screwdriver/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Sue Ann Carwell](../../../topics/sue-ann-carwell/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/))
 
 ----
 
@@ -667,7 +699,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2017
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 <br />

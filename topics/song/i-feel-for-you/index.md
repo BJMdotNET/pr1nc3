@@ -1,6 +1,6 @@
 # I Feel For You (song)
 
-## 2023 (2)
+## 2023 (3)
 
 ### 2023 July (1)
 
@@ -12,7 +12,15 @@
 
 ----
 
-### 2023 June (1)
+### 2023 June (2)
+
+ - [**"Chaka Khan and Chuck D to speak, but not perform, at Prince-centric Celebration -- The four-day event starts Thursday at Paisley Park"**](https://www.twincities.com/2023/06/05/chaka-khan-and-chuck-d-to-speak-but-not-perform-at-prince-centric-celebration/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 5 June 2023
+    - about [Andy Beech](../../../topics/andy-beech/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Come 2 My House (album)](../../../topics/album/come-2-my-house/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [luthier](../../../topics/luthier/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/06/05/chaka-khan-and-chuck-d-to-speak-but-not-perform-at-prince-centric-celebration/))
+
+<br />
 
  - [**"Paisley Park Reveals Celebration 2023 Programming"**](https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming)
     - in [Shore Fire Media](../../../publications/p-t/shore-fire-media/index.md)

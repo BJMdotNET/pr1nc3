@@ -1,6 +1,32 @@
 # Sharon Nelson
 
-## 2023 (8)
+## 2023 (11)
+
+### 2023 August (3)
+
+ - [**"Purple road signs go up marking Prince Rogers Nelson Memorial Highway"**](https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 4 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/))
+
+<br />
+
+ - [**"Prince Rogers Nelson Memorial Highway sign goes up in Chanhassen"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-sign-goes-up-in-chanhassen/)
+    - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 3 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-sign-goes-up-in-chanhassen/))
+
+<br />
+
+ - [**"They were gathered there today to rename this Minnesota highway after Prince -- MnDOT install Prince Rogers Nelson Memorial Highway sings along Highway 5 through Chanhassen, where the late Minnesota pop star's Paisley Park was located.  "**](https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 August 2023
+    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/))
+
+----
 
 ### 2023 July (6)
 
@@ -58,7 +84,7 @@
     - by [Reg Chapman](../../authors/reg-chapman/index.md), [WCCO Staff](../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 9 May 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
 
 <br />
@@ -67,7 +93,7 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 4 May 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Mark Webster](../../topics/mark-webster/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1))
 
 ----

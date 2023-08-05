@@ -1,8 +1,8 @@
 # Sinéad O'Connor
 
-## 2023 (12)
+## 2023 (13)
 
-### 2023 July (9)
+### 2023 July (10)
 
  - [**"How Sinéad O'Connor recorded Nothing Compares 2 U"**](https://www.bbc.com/news/entertainment-arts-66320163)
     - in [BBC News](../../publications/a-e/bbc-news/index.md)
@@ -42,6 +42,14 @@
     - on 27 July 2023
     - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html))
+
+<br />
+
+ - [**"What Sinéad O'Connor's iconic cover of Prince song Nothing Compares 2 U is really about -- Late singer Sinéad O'Connor's greatest hit Nothing Compares 2 U was really written by iconic musician Prince, and it was never intended to be a love song at all"**](https://www.mirror.co.uk/3am/celebrity-news/what-sinad-oconnors-iconic-cover-30569789)
+    - in [mirror.co.uk](../../publications/k-o/mirror-co-uk/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Recording Industry Association of America](../../topics/recording-industry-association-of-america/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mirror.co.uk/3am/celebrity-news/what-sinad-oconnors-iconic-cover-30569789))
 
 <br />
 
@@ -119,7 +127,7 @@
 
 ----
 
-## 2021 (2)
+## 2021 (3)
 
 ### 2021 June (1)
 
@@ -128,6 +136,16 @@
     - on 17 June 2021
     - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Shuhada Sadaqat](../../topics/shuhada-sadaqat/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586))
+
+----
+
+### 2021 May (1)
+
+ - [**"Sinéad O'Connor Remembers Startling Encounter with Prince: 'The Loneliness of Fame Was His Undoing' -- In her new memoir Rememberings, the Irish singer-songwriter reflects on the bizarre night she spent with Prince, who wrote her 1990 hit "Nothing Compares 2 U""**](https://people.com/music/sinead-oconnor-remembers-strange-night-prince/)
+    - in [People](../../publications/p-t/people/index.md)
+    - on 26 May 2021
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [pillow fight](../../topics/pillow-fight/index.md), [Rememberings (book)](../../topics/book/rememberings/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/music/sinead-oconnor-remembers-strange-night-prince/))
 
 ----
 

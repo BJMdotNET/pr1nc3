@@ -1,5 +1,29 @@
 # Stand Back (song)
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"SoundTRAX: "Purple Rain" -- SoundTRAX is a dive into notable music from iconic films and TV shows every Monday-Thursday at 8:10."**](https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain)
+    - in [www.lpm.org](../../../publications/u-z/www-lpm-org/index.md)
+    - on 27 July 2023
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain))
+
+----
+
+## 2021 (1)
+
+### 2021 July (1)
+
+ - [**"The classic Prince song inspired by Stevie Nicks"**](https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/)
+    - in [Far Out Magazine](../../../publications/f-j/far-out-magazine/index.md)
+    - on 9 July 2021
+    - about [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Kim Anderson](../../../topics/kim-anderson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/))
+
+----
+
 ## 2019 (2)
 
 ### 2019 December (1)
@@ -79,15 +103,41 @@
 
 ----
 
-## 2011 (1)
+## 2011 (4)
 
-### 2011 September (1)
+### 2011 September (3)
 
  - [**"Stevie Nicks: ‘I turned down Prince’s offer to write ‘Purple Rain’ lyrics’"**](https://www.nme.com/news/music/stevie-nicks-15-1279343)
     - in [NME (New Musical Express)](../../../publications/k-o/nme-new-musical-express/index.md)
     - on 16 September 2011
     - about [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/stevie-nicks-15-1279343))
+
+<br />
+
+ - [**"Stevie Nicks: ‘I turned down Prince’s offer to write ‘Purple Rain’ lyrics’ -- Ex-Fleetwood Mac singer says she was too “scared” to pen words for classic track"**](https://www.nme.com/news/music/stevie-nicks-15-1279343)
+    - in [NME (New Musical Express)](../../../publications/k-o/nme-new-musical-express/index.md)
+    - on 16 September 2011
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/stevie-nicks-15-1279343))
+
+<br />
+
+ - [**"Stevie Nicks: Prince asked me to write Purple Rain lyrics -- Singer turned down offer to co-write Prince smash hit after being 'overwhelmed' by the instrumental track"**](https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 16 September 2011
+    - about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain))
+
+----
+
+### 2011 August (1)
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Ricky Peterson](../../../topics/ricky-peterson/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
 
 ----
 

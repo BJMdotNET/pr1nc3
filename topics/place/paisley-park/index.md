@@ -1,6 +1,56 @@
 # Paisley Park (place)
 
-## 2023 (18)
+## 2023 (27)
+
+### 2023 August (6)
+
+ - [**"Highway in Chanhassen officially dedicated to Prince"**](https://www.kttc.com/2023/08/03/highway-chanhassen-officially-dedicated-prince/)
+    - in [KTTC](../../../publications/k-o/kttc/index.md)
+    - on 4 August 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Julia Coleman](../../../topics/julia-coleman/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.kttc.com/2023/08/03/highway-chanhassen-officially-dedicated-prince/))
+
+<br />
+
+ - [**"Purple road signs go up marking Prince Rogers Nelson Memorial Highway"**](https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 4 August 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/))
+
+<br />
+
+ - [**"MnDOT installs signs for Prince memorial highway"**](https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway)
+    - in [Fox 9](../../../publications/f-j/fox-9/index.md)
+    - on 3 August 2023
+    - about [Audubon Road (place)](../../../topics/place/audubon-road/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway))
+
+<br />
+
+ - [**"Prince Rogers Nelson Memorial Highway sign goes up in Chanhassen"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-sign-goes-up-in-chanhassen/)
+    - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 3 August 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-sign-goes-up-in-chanhassen/))
+
+<br />
+
+ - [**"They were gathered there today to rename this Minnesota highway after Prince -- MnDOT install Prince Rogers Nelson Memorial Highway sings along Highway 5 through Chanhassen, where the late Minnesota pop star's Paisley Park was located.  "**](https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 August 2023
+    - about [Julia Coleman](../../../topics/julia-coleman/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/))
+
+<br />
+
+ - [**"Signs honoring Prince to go up on section of Minnesota highway on Thursday"**](https://www.mprnews.org/story/2023/08/02/signs-honoring-prince-to-go-up-on-section-of-minnesota-highway-on-thursday)
+    - in [MPR News (Minnesota Public Radio)](../../../publications/k-o/mpr-news-minnesota-public-radio/index.md)
+    - on 2 August 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2023/08/02/signs-honoring-prince-to-go-up-on-section-of-minnesota-highway-on-thursday))
+
+----
 
 ### 2023 July (1)
 
@@ -13,7 +63,7 @@
 
 ----
 
-### 2023 June (7)
+### 2023 June (8)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
     - by [Jae Bryson](../../../authors/jae-bryson/index.md)
@@ -67,6 +117,14 @@
 
 <br />
 
+ - [**"Chaka Khan and Chuck D to speak, but not perform, at Prince-centric Celebration -- The four-day event starts Thursday at Paisley Park"**](https://www.twincities.com/2023/06/05/chaka-khan-and-chuck-d-to-speak-but-not-perform-at-prince-centric-celebration/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 5 June 2023
+    - about [Andy Beech](../../../topics/andy-beech/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Come 2 My House (album)](../../../topics/album/come-2-my-house/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [luthier](../../../topics/luthier/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/06/05/chaka-khan-and-chuck-d-to-speak-but-not-perform-at-prince-centric-celebration/))
+
+<br />
+
  - [**"Paisley Park Reveals Celebration 2023 Programming"**](https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming)
     - in [Shore Fire Media](../../../publications/p-t/shore-fire-media/index.md)
     - on 5 June 2023
@@ -90,7 +148,7 @@
     - by [Reg Chapman](../../../authors/reg-chapman/index.md), [WCCO Staff](../../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 9 May 2023
-    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
 
 <br />
@@ -128,18 +186,35 @@
 
 ----
 
-### 2023 April (1)
+### 2023 April (2)
 
  - [**"Minnesota House OKs bill to rename highway after Prince"**](https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/)
     - by [WCCO Staff](../../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 21 April 2023
-    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/))
+
+<br />
+
+ - [**"Seven years after his death, MN lawmakers want to name a highway after Prince -- Highway 5 in Chanhassen would be “Prince Rogers Nelson Memorial Highway”"**](https://www.twincities.com/2023/04/21/mn-lawmakers-want-to-name-highway-for-prince/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 21 April 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/04/21/mn-lawmakers-want-to-name-highway-for-prince/))
 
 ----
 
-### 2023 March (2)
+### 2023 March (3)
+
+ - [**"Minnesota bill moves forward to name a stretch of Hwy. 5 for Prince -- If passed, the highway dedication sign would be the pop star's signature purple color."**](https://www.startribune.com/minnesota-bill-moves-forward-to-name-a-stretch-of-hwy-5-for-prince/600258079/)
+    - by [Briana Bierschbach](../../../authors/briana-bierschbach/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 March 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Julia Coleman](../../../topics/julia-coleman/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-bill-moves-forward-to-name-a-stretch-of-hwy-5-for-prince/600258079/))
+
+<br />
 
  - [**"Bill to rename highway after Prince advances in committee"**](https://www.cbsnews.com/minnesota/news/bill-to-rename-highway-after-prince-advances-in-committee/)
     - by [WCCO Staff](../../../authors/wcco-staff/index.md)

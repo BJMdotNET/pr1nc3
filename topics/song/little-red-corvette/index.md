@@ -1,5 +1,18 @@
 # Little Red Corvette (song)
 
+## 2023 (1)
+
+### 2023 August (1)
+
+ - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
+    - by [Jason Draper](../../../authors/jason-draper/index.md)
+    - in [Dig!](../../../publications/a-e/dig/index.md)
+    - on 3 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [James Brown](../../../topics/james-brown/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mick Jagger](../../../topics/mick-jagger/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/))
+
+----
+
 ## 2022 (2)
 
 ### 2022 May (2)
@@ -20,7 +33,7 @@
 
 ----
 
-## 2021 (3)
+## 2021 (4)
 
 ### 2021 October (2)
 
@@ -49,6 +62,16 @@
     - on 10 September 2021
     - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Carlos Santana](../../../topics/carlos-santana/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [He’s So Dull (song)](../../../topics/song/he-s-so-dull/index.md), [Ida Nielsen](../../../topics/ida-nielsen/index.md), [James Brown](../../../topics/james-brown/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [ping-pong](../../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../../topics/album/plectrumelectrum/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road))
+
+----
+
+### 2021 July (1)
+
+ - [**"The classic Prince song inspired by Stevie Nicks"**](https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/)
+    - in [Far Out Magazine](../../../publications/f-j/far-out-magazine/index.md)
+    - on 9 July 2021
+    - about [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Kim Anderson](../../../topics/kim-anderson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/))
 
 ----
 
@@ -669,7 +692,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Apple Music](../../../topics/apple-music/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Bangles](../../../topics/bangles/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Netflix](../../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House](../../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Apple Music](../../../topics/apple-music/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Bangles](../../../topics/bangles/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Netflix](../../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House](../../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
@@ -1052,7 +1075,35 @@
 
 ----
 
-## 2011 (1)
+## 2011 (4)
+
+### 2011 September (2)
+
+ - [**"Stevie Nicks: ‘I turned down Prince’s offer to write ‘Purple Rain’ lyrics’ -- Ex-Fleetwood Mac singer says she was too “scared” to pen words for classic track"**](https://www.nme.com/news/music/stevie-nicks-15-1279343)
+    - in [NME (New Musical Express)](../../../publications/k-o/nme-new-musical-express/index.md)
+    - on 16 September 2011
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/stevie-nicks-15-1279343))
+
+<br />
+
+ - [**"Stevie Nicks: Prince asked me to write Purple Rain lyrics -- Singer turned down offer to co-write Prince smash hit after being 'overwhelmed' by the instrumental track"**](https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 16 September 2011
+    - about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain))
+
+----
+
+### 2011 August (1)
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Ricky Peterson](../../../topics/ricky-peterson/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
+
+----
 
 ### 2011 July (1)
 

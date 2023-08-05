@@ -26,6 +26,18 @@
 
 ----
 
+## 2021 (1)
+
+### 2021 July (1)
+
+ - [**"The classic Prince song inspired by Stevie Nicks"**](https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/)
+    - in [Far Out Magazine](../../publications/f-j/far-out-magazine/index.md)
+    - on 9 July 2021
+    - about [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Kim Anderson](../../topics/kim-anderson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/))
+
+----
+
 ## 2020 (1)
 
 ### 2020 January (1)
@@ -83,6 +95,28 @@
     - on 10 September 2013
     - about [1-800-NEW-FUNK (album)](../../topics/album/1-800-new-funk/index.md), [A&M Records](../../topics/a-m-records/index.md), [American Bandstand](../../topics/american-bandstand/index.md), [Blueberry Gossip (album)](../../topics/album/blueberry-gossip/index.md), [Bunker’s Music Bar and Grill (place)](../../topics/place/bunker-s-music-bar-and-grill/index.md), [Bunkers (place)](../../topics/place/bunkers/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Cynthia Johnson](../../topics/cynthia-johnson/index.md), [Cynthia Jonson](../../topics/cynthia-jonson/index.md), [Dick Clark](../../topics/dick-clark/index.md), [Dr. Mambo’s Combo](../../topics/dr-mambo-s-combo/index.md), [Dr. Mambo's Combo](../../topics/dr-mambo-s-combo/index.md), [Everybody Dance (song)](../../topics/song/everybody-dance/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Gerry Hubbard](../../topics/gerry-hubbard/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Legendary Combo](../../topics/legendary-combo/index.md), [Lipps, Inc.](../../topics/lipps-inc/index.md), [Margaret Cox](../../topics/margaret-cox/index.md), [Margie Cox](../../topics/margie-cox/index.md), [Margie's Little Demo (album)](../../topics/album/margie-s-little-demo/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [MC Flash](../../topics/mc-flash/index.md), [Patrice Rushen](../../topics/patrice-rushen/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sue Ann Carwell](../../topics/sue-ann-carwell/index.md), [Ta Mara and the Seen](../../topics/ta-mara-and-the-seen/index.md), [The Legendary Combo](../../topics/the-legendary-combo/index.md), [Tuff Girl (album)](../../topics/album/tuff-girl/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/http://beautifulnightschitown.blogspot.com/2013/09/willing-and-able-margaret-cox-talks-2.html))
+
+----
+
+## 2011 (2)
+
+### 2011 September (1)
+
+ - [**"Stevie Nicks: ‘I turned down Prince’s offer to write ‘Purple Rain’ lyrics’ -- Ex-Fleetwood Mac singer says she was too “scared” to pen words for classic track"**](https://www.nme.com/news/music/stevie-nicks-15-1279343)
+    - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
+    - on 16 September 2011
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/stevie-nicks-15-1279343))
+
+----
+
+### 2011 August (1)
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Ricky Peterson](../../topics/ricky-peterson/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
 
 ----
 

@@ -1,5 +1,17 @@
 # Audubon Road (place)
 
+## 2023 (1)
+
+### 2023 August (1)
+
+ - [**"MnDOT installs signs for Prince memorial highway"**](https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway)
+    - in [Fox 9](../../../publications/f-j/fox-9/index.md)
+    - on 3 August 2023
+    - about [Audubon Road (place)](../../../topics/place/audubon-road/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway))
+
+----
+
 ## 2021 (1)
 
 ### 2021 December (1)

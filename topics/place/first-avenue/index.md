@@ -1,6 +1,41 @@
 # First Avenue (place)
 
-## 2023 (2)
+## 2023 (6)
+
+### 2023 August (4)
+
+ - [**"New archival footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/)
+    - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 4 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [bootleg](../../../topics/bootleg/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [DJ Dudley D](../../../topics/dj-dudley-d/index.md), [Dr. Mambo's Combo](../../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jeff Wagner](../../../topics/jeff-wagner/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let's Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Matt Liddy](../../../topics/matt-liddy/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/))
+
+<br />
+
+ - [**"New footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.youtube.com/watch?v=LkhY6VFdCzU)
+    - in [YouTube](../../../publications/u-z/youtube/index.md)
+    - on 4 August 2023
+    - about [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=LkhY6VFdCzU))
+
+<br />
+
+ - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
+    - by [Jason Draper](../../../authors/jason-draper/index.md)
+    - in [Dig!](../../../publications/a-e/dig/index.md)
+    - on 3 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [James Brown](../../../topics/james-brown/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mick Jagger](../../../topics/mick-jagger/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/))
+
+<br />
+
+ - [**"The Big Gigs: 10 concerts in the Twin Cities to see this week -- Highlights for Aug. 3-9 include Zach Bryan, Lionel Richie, Suki Waterhouse, We Fest and the National. "**](https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 August 2023
+    - about [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby, I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dr. Mambo's Combo](../../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Let's Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Prince & The Revolution](../../../topics/prince-the-revolution/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/))
+
+----
 
 ### 2023 July (1)
 
@@ -108,7 +143,7 @@
 
 ----
 
-## 2020 (11)
+## 2020 (12)
 
 ### 2020 July (1)
 
@@ -117,6 +152,17 @@
     - on 22 July 2020
     - about [Dakota (place)](../../../topics/place/dakota/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/klobuchar-bill-would-cough-up-10-billion-for-struggling-music-venues/571865291))
+
+----
+
+### 2020 April (1)
+
+ - [**"Our Prince wish list: 12 more items we hope to unearth from his fabled vault -- Here's a wish list of 12 cherished items from Prince's fabled vault."**](https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2020
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Bambi (song)](../../../topics/song/bambi/index.md), [Central High](../../../topics/central-high/index.md), [Dakota Jazz Club (place)](../../../topics/place/dakota-jazz-club/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Screwdriver (song)](../../../topics/song/screwdriver/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Sue Ann Carwell](../../../topics/sue-ann-carwell/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/))
 
 ----
 
@@ -491,7 +537,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 May 2019
-    - about [David Brewster](../../../topics/david-brewster/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Uncle Sam’s (place)](../../../topics/place/uncle-sam-s/index.md)
+    - about [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [David Brewster](../../../topics/david-brewster/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Uncle Sam’s (place)](../../../topics/place/uncle-sam-s/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 <br />
@@ -520,7 +566,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Apple Music](../../../topics/apple-music/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Bangles](../../../topics/bangles/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Netflix](../../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House](../../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Apple Music](../../../topics/apple-music/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Bangles](../../../topics/bangles/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Netflix](../../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House](../../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 <br />
@@ -694,7 +740,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2017
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 <br />
@@ -809,7 +855,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 September 2016
-    - about [Andre Cymone](../../../topics/andre-cymone/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Questlove](../../../topics/questlove/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Andre Cymone](../../../topics/andre-cymone/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Questlove](../../../topics/questlove/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
@@ -1025,6 +1071,19 @@
     - on 28 July 2014
     - about [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Cavallo, Ruffalo, and Fargnoli](../../../topics/cavallo-ruffalo-and-fargnoli/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nina Peebles](../../../topics/nina-peebles/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/))
+
+----
+
+## 2012 (1)
+
+### 2012 February (1)
+
+ - [**"See the Revolutionary clip of Prince raising "Purple Rain" at First Ave"**](https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 February 2012
+    - about [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [David Brewster](../../../topics/david-brewster/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/))
 
 ----
 

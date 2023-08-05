@@ -1,6 +1,16 @@
 # Recording Industry Association of America
 
-## 2023 (1)
+## 2023 (2)
+
+### 2023 July (1)
+
+ - [**"What Sinéad O'Connor's iconic cover of Prince song Nothing Compares 2 U is really about -- Late singer Sinéad O'Connor's greatest hit Nothing Compares 2 U was really written by iconic musician Prince, and it was never intended to be a love song at all"**](https://www.mirror.co.uk/3am/celebrity-news/what-sinad-oconnors-iconic-cover-30569789)
+    - in [mirror.co.uk](../../publications/k-o/mirror-co-uk/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Recording Industry Association of America](../../topics/recording-industry-association-of-america/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mirror.co.uk/3am/celebrity-news/what-sinad-oconnors-iconic-cover-30569789))
+
+----
 
 ### 2023 May (1)
 

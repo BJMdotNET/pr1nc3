@@ -56,7 +56,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 May 2019
-    - about [David Brewster](../../../topics/david-brewster/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Uncle Sam’s (place)](../../../topics/place/uncle-sam-s/index.md)
+    - about [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [David Brewster](../../../topics/david-brewster/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Uncle Sam’s (place)](../../../topics/place/uncle-sam-s/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
@@ -108,7 +108,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2017
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 <br />
@@ -141,7 +141,7 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
 
 ### 2016 June (1)
 
@@ -150,6 +150,16 @@
     - on 5 June 2016
     - about [Andre Cymone](../../../topics/andre-cymone/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [opioid](../../../topics/opioid/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
+
+----
+
+### 2016 May (1)
+
+ - [**"Dancers recall Prince as a hard-working 'darling' in tights and ballet slippers -- The Twin Cities dance community recalls another side of the artist who first took ballet lessons as a kid. "**](http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/)
+    - in [Minneapolis Star Tribune (HTTP)](../../../publications/k-o/minneapolis-star-tribune-http/index.md)
+    - on 5 May 2016
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chanhassen Dinner Theatres](../../../topics/chanhassen-dinner-theatres/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Glam Slam (place)](../../../topics/place/glam-slam/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md)
+    - ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
 
 ----
 

@@ -1,5 +1,52 @@
 # Purple Rain (song)
 
+## 2023 (5)
+
+### 2023 August (4)
+
+ - [**"New archival footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/)
+    - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 4 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [bootleg](../../../topics/bootleg/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [DJ Dudley D](../../../topics/dj-dudley-d/index.md), [Dr. Mambo's Combo](../../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jeff Wagner](../../../topics/jeff-wagner/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let's Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Matt Liddy](../../../topics/matt-liddy/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/))
+
+<br />
+
+ - [**"New footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.youtube.com/watch?v=LkhY6VFdCzU)
+    - in [YouTube](../../../publications/u-z/youtube/index.md)
+    - on 4 August 2023
+    - about [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=LkhY6VFdCzU))
+
+<br />
+
+ - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
+    - by [Jason Draper](../../../authors/jason-draper/index.md)
+    - in [Dig!](../../../publications/a-e/dig/index.md)
+    - on 3 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [James Brown](../../../topics/james-brown/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mick Jagger](../../../topics/mick-jagger/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/))
+
+<br />
+
+ - [**"The Big Gigs: 10 concerts in the Twin Cities to see this week -- Highlights for Aug. 3-9 include Zach Bryan, Lionel Richie, Suki Waterhouse, We Fest and the National. "**](https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 August 2023
+    - about [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby, I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dr. Mambo's Combo](../../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Let's Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Prince & The Revolution](../../../topics/prince-the-revolution/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/))
+
+----
+
+### 2023 July (1)
+
+ - [**"SoundTRAX: "Purple Rain" -- SoundTRAX is a dive into notable music from iconic films and TV shows every Monday-Thursday at 8:10."**](https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain)
+    - in [www.lpm.org](../../../publications/u-z/www-lpm-org/index.md)
+    - on 27 July 2023
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain))
+
+----
+
 ## 2022 (6)
 
 ### 2022 August (1)
@@ -521,7 +568,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2017
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 <br />
@@ -553,7 +600,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 September 2016
-    - about [Andre Cymone](../../../topics/andre-cymone/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Questlove](../../../topics/questlove/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Andre Cymone](../../../topics/andre-cymone/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Questlove](../../../topics/questlove/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
@@ -669,6 +716,49 @@
     - on 3 December 2013
     - about [Austin (place)](../../../topics/place/austin/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Essence Fest (event)](../../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../../topics/event/essence-festival/index.md), [Independence Day](../../../topics/independence-day/index.md), [Louisiana Superdome (place)](../../../topics/place/louisiana-superdome/index.md), [New Orleans (place)](../../../topics/place/new-orleans/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Screwdriver (song)](../../../topics/song/screwdriver/index.md), [South By Southwest Music Festival (event)](../../../topics/event/south-by-southwest-music-festival/index.md), [Superdome (place)](../../../topics/place/superdome/index.md), [Texas (place)](../../../topics/place/texas/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/4d2ee6a810f04caf9f6ad52f34507f4b))
+
+----
+
+## 2012 (1)
+
+### 2012 February (1)
+
+ - [**"See the Revolutionary clip of Prince raising "Purple Rain" at First Ave"**](https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 February 2012
+    - about [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [David Brewster](../../../topics/david-brewster/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/))
+
+----
+
+## 2011 (3)
+
+### 2011 September (2)
+
+ - [**"Stevie Nicks: ‘I turned down Prince’s offer to write ‘Purple Rain’ lyrics’ -- Ex-Fleetwood Mac singer says she was too “scared” to pen words for classic track"**](https://www.nme.com/news/music/stevie-nicks-15-1279343)
+    - in [NME (New Musical Express)](../../../publications/k-o/nme-new-musical-express/index.md)
+    - on 16 September 2011
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/stevie-nicks-15-1279343))
+
+<br />
+
+ - [**"Stevie Nicks: Prince asked me to write Purple Rain lyrics -- Singer turned down offer to co-write Prince smash hit after being 'overwhelmed' by the instrumental track"**](https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 16 September 2011
+    - about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain))
+
+----
+
+### 2011 August (1)
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Ricky Peterson](../../../topics/ricky-peterson/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
 
 ----
 

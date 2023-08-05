@@ -1,5 +1,17 @@
 # Matt Liddy
 
+## 2023 (1)
+
+### 2023 August (1)
+
+ - [**"New archival footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/)
+    - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 4 August 2023
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [bootleg](../../topics/bootleg/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [Dr. Mambo's Combo](../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jeff Wagner](../../topics/jeff-wagner/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Let's Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/))
+
+----
+
 ## 2022 (8)
 
 ### 2022 April (8)

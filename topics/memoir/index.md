@@ -1,8 +1,16 @@
 # memoir
 
-## 2023 (19)
+## 2023 (20)
 
-### 2023 July (16)
+### 2023 July (17)
+
+ - [**"'Nothing Compares 2 U' Wasn't Sinead O'Connor's Only Prince Cover"**](https://ultimateprince.com/sinead-oconnor-prince-i-would-die-4-u/)
+    - in [ultimateprince.com](../../publications/u-z/ultimateprince-com/index.md)
+    - on 30 July 2023
+    - about [Frank Benbini](../../topics/frank-benbini/index.md), [Fun Lovin' Criminals](../../topics/fun-lovin-criminals/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [pillow fight](../../topics/pillow-fight/index.md), [Purple Reggae (album)](../../topics/album/purple-reggae/index.md), [Radio Riddler](../../topics/radio-riddler/index.md), [Rememberings (book)](../../topics/book/rememberings/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://ultimateprince.com/sinead-oconnor-prince-i-would-die-4-u/))
+
+<br />
 
  - [**"‘Nothing Compares 2 U is perfect’: Sinéad O’Connor’s 10 greatest songs -- The late singer’s magnificent voice powered haunted hits about heartbreak, personal traumas, politics and sex, blending rock, folk and hip-hop beats"**](https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u)
     - in [The Guardian](../../publications/f-j/the-guardian/index.md)
@@ -231,7 +239,7 @@
 
 ----
 
-## 2021 (8)
+## 2021 (10)
 
 ### 2021 June (2)
 
@@ -251,7 +259,7 @@
 
 ----
 
-### 2021 May (3)
+### 2021 May (5)
 
  - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
     - in [The Guardian](../../publications/f-j/the-guardian/index.md)
@@ -266,6 +274,22 @@
     - on 28 May 2021
     - about [Duane Nelson](../../topics/duane-nelson/index.md), [memoir](../../topics/memoir/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Family](../../topics/the-family/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/))
+
+<br />
+
+ - [**"Sinead O'Connor Recalls Argument and 'Pillow Fight' With Prince"**](https://ultimateprince.com/sinead-oconnor-prince-pillow-fight/)
+    - in [ultimateprince.com](../../publications/u-z/ultimateprince-com/index.md)
+    - on 26 May 2021
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [pillow fight](../../topics/pillow-fight/index.md), [Rememberings (book)](../../topics/book/rememberings/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://ultimateprince.com/sinead-oconnor-prince-pillow-fight/))
+
+<br />
+
+ - [**"Sinéad O'Connor Remembers Startling Encounter with Prince: 'The Loneliness of Fame Was His Undoing' -- In her new memoir Rememberings, the Irish singer-songwriter reflects on the bizarre night she spent with Prince, who wrote her 1990 hit "Nothing Compares 2 U""**](https://people.com/music/sinead-oconnor-remembers-strange-night-prince/)
+    - in [People](../../publications/p-t/people/index.md)
+    - on 26 May 2021
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [pillow fight](../../topics/pillow-fight/index.md), [Rememberings (book)](../../topics/book/rememberings/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/music/sinead-oconnor-remembers-strange-night-prince/))
 
 <br />
 
@@ -1485,7 +1509,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 <br />

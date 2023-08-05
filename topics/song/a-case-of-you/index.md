@@ -1,6 +1,25 @@
 # A Case of You (song)
 
-## 2023 (1)
+## 2023 (3)
+
+### 2023 August (2)
+
+ - [**"New archival footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/)
+    - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 4 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [bootleg](../../../topics/bootleg/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [DJ Dudley D](../../../topics/dj-dudley-d/index.md), [Dr. Mambo's Combo](../../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jeff Wagner](../../../topics/jeff-wagner/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let's Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Matt Liddy](../../../topics/matt-liddy/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/))
+
+<br />
+
+ - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
+    - by [Jason Draper](../../../authors/jason-draper/index.md)
+    - in [Dig!](../../../publications/a-e/dig/index.md)
+    - on 3 August 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [James Brown](../../../topics/james-brown/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mick Jagger](../../../topics/mick-jagger/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/))
+
+----
 
 ### 2023 June (1)
 
@@ -10,6 +29,19 @@
     - on 16 June 2023
     - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Prince Legacy LLC](../../../topics/prince-legacy-llc/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/joni-mitchell-rhiannon-giddens-stokley-known-mpls-prince-maren-morris-gorge-brandi-carlile-ojai/600283114/))
+
+----
+
+## 2020 (1)
+
+### 2020 April (1)
+
+ - [**"Our Prince wish list: 12 more items we hope to unearth from his fabled vault -- Here's a wish list of 12 cherished items from Prince's fabled vault."**](https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2020
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Bambi (song)](../../../topics/song/bambi/index.md), [Central High](../../../topics/central-high/index.md), [Dakota Jazz Club (place)](../../../topics/place/dakota-jazz-club/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Screwdriver (song)](../../../topics/song/screwdriver/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Sue Ann Carwell](../../../topics/sue-ann-carwell/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/))
 
 ----
 

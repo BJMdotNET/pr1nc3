@@ -13,7 +13,7 @@
 
 ----
 
-## 2020 (6)
+## 2020 (7)
 
 ### 2020 July (2)
 
@@ -52,6 +52,17 @@
     - on 25 June 2020
     - about [Dave Chappelle](../../topics/dave-chappelle/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sign O' The Times (album)](../../topics/album/sign-o-the-times/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/))
+
+----
+
+### 2020 April (1)
+
+ - [**"Our Prince wish list: 12 more items we hope to unearth from his fabled vault -- Here's a wish list of 12 cherished items from Prince's fabled vault."**](https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2020
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Bambi (song)](../../topics/song/bambi/index.md), [Central High](../../topics/central-high/index.md), [Dakota Jazz Club (place)](../../topics/place/dakota-jazz-club/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Originals (album)](../../topics/album/originals/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Soft and Wet (song)](../../topics/song/soft-and-wet/index.md), [Sue Ann Carwell](../../topics/sue-ann-carwell/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/))
 
 ----
 

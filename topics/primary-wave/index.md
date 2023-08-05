@@ -37,7 +37,7 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 4 May 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Mark Webster](../../topics/mark-webster/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1))
 
 ----

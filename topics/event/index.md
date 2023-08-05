@@ -1,7 +1,8 @@
 # event
 
+  * [Aug. 3, 1983 (event)](../event/aug-3-1983/index.md) (10)
   * [Billboard Music Awards (event)](../event/billboard-music-awards/index.md) (3)
-  * [Celebration (event)](../event/celebration/index.md) (62)
+  * [Celebration (event)](../event/celebration/index.md) (63)
   * [Celebration 2017 (event)](../event/celebration-2017/index.md) (11)
   * [Celebration 2018 (event)](../event/celebration-2018/index.md) (3)
   * [Celebration 2019 (event)](../event/celebration-2019/index.md) (6)
@@ -14,6 +15,7 @@
   * [Hop Farm (event)](../event/hop-farm/index.md) (1)
   * [Let's Go Crazy: The Grammy Salute to Prince (event)](../event/let-s-go-crazy-the-grammy-salute-to-prince/index.md) (7)
   * [London Fashion Week (event)](../event/london-fashion-week/index.md) (3)
+  * [Minnesota Music Awards (event)](../event/minnesota-music-awards/index.md) (1)
   * [Montreux Jazz Festival (event)](../event/montreux-jazz-festival/index.md) (1)
   * [Musicology: Real Music by Real Musicians (event)](../event/musicology-real-music-by-real-musicians/index.md) (3)
   * [Paisley Park Cinema: Music on the Big Screen (event)](../event/paisley-park-cinema-music-on-the-big-screen/index.md) (5)
