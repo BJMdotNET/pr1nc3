@@ -297,7 +297,7 @@
 
 ----
 
-## July 2021 (6)
+## July 2021 (7)
 
  - [**"Music Review: Prince’s ‘America’ vault release stunning"**](https://apnews.com/article/entertainment-music-arts-and-entertainment-prince-207c2f0de99ff17f62e02a1e48c63b8c)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -346,6 +346,14 @@
     - on 9 July 2021
     - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/))
+
+----
+
+ - [**"The classic Prince song inspired by Stevie Nicks"**](https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/)
+    - in [Far Out Magazine](../../publications/f-j/far-out-magazine/index.md)
+    - on 9 July 2021
+    - about [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Kim Anderson](../../topics/kim-anderson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/prince-song-inspired-by-stevie-nicks-when-doves-cry/))
 
 ----
 
@@ -401,7 +409,7 @@
 
 ----
 
-## May 2021 (8)
+## May 2021 (10)
 
  - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
     - in [The Guardian](../../publications/f-j/the-guardian/index.md)
@@ -416,6 +424,22 @@
     - on 28 May 2021
     - about [Duane Nelson](../../topics/duane-nelson/index.md), [memoir](../../topics/memoir/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Family](../../topics/the-family/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/))
+
+----
+
+ - [**"Sinead O'Connor Recalls Argument and 'Pillow Fight' With Prince"**](https://ultimateprince.com/sinead-oconnor-prince-pillow-fight/)
+    - in [ultimateprince.com](../../publications/u-z/ultimateprince-com/index.md)
+    - on 26 May 2021
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [pillow fight](../../topics/pillow-fight/index.md), [Rememberings (book)](../../topics/book/rememberings/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://ultimateprince.com/sinead-oconnor-prince-pillow-fight/))
+
+----
+
+ - [**"Sinéad O'Connor Remembers Startling Encounter with Prince: 'The Loneliness of Fame Was His Undoing' -- In her new memoir Rememberings, the Irish singer-songwriter reflects on the bizarre night she spent with Prince, who wrote her 1990 hit "Nothing Compares 2 U""**](https://people.com/music/sinead-oconnor-remembers-strange-night-prince/)
+    - in [People](../../publications/p-t/people/index.md)
+    - on 26 May 2021
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [pillow fight](../../topics/pillow-fight/index.md), [Rememberings (book)](../../topics/book/rememberings/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/music/sinead-oconnor-remembers-strange-night-prince/))
 
 ----
 
@@ -623,6 +647,7 @@
     - by [Tim Harlow](../../authors/tim-harlow/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 March 2021
+    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-legislators-want-to-rename-highway-after-prince/600034298/))
 
 ----

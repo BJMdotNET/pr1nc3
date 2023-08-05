@@ -704,7 +704,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 September 2016
-    - about [Andre Cymone](../../topics/andre-cymone/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Questlove](../../topics/questlove/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Andre Cymone](../../topics/andre-cymone/index.md), [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Questlove](../../topics/questlove/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
@@ -1938,7 +1938,7 @@
 
 ----
 
-## May 2016 (98)
+## May 2016 (99)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -2531,6 +2531,14 @@
 
 ----
 
+ - [**"Dancers recall Prince as a hard-working 'darling' in tights and ballet slippers -- The Twin Cities dance community recalls another side of the artist who first took ballet lessons as a kid. "**](http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/)
+    - in [Minneapolis Star Tribune (HTTP)](../../publications/k-o/minneapolis-star-tribune-http/index.md)
+    - on 5 May 2016
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Misty Copeland](../../topics/misty-copeland/index.md)
+    - ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
+
+----
+
  - [**"More Obscure Than a One-Hit Wonder? The Legends Who Never Had a Hit"**](https://www.billboard.com/articles/news/7356964/stealth-hit-wonder)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 5 May 2016
@@ -2749,7 +2757,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 April 2016
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-and-first-avenue-a-history-of-the-club-s-ties-to-its-brightest-star/377583391/))
 
 ----
@@ -2757,6 +2765,7 @@
  - [**"Prince&#039;s top 5 First Avenue concerts, from &#039;Purple Rain&#039; to getting shut down by police -- His key gigs at the club he made famous from 1981 to 2007"**](https://www.startribune.com/prince-s-top-5-first-avenue-concerts-from-purple-rain-to-getting-shut-down-by-police/377583571/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 April 2016
+    - about [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-top-5-first-avenue-concerts-from-purple-rain-to-getting-shut-down-by-police/377583571/))
 
 ----

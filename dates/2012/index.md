@@ -366,6 +366,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 February 2012
+    - about [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Bobby Z](../../topics/bobby-z/index.md), [David Brewster](../../topics/david-brewster/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/))
 
 ----

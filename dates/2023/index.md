@@ -1,6 +1,129 @@
 # 2023
 
-## July 2023 (53)
+## August 2023 (12)
+
+ - [**"Fans gather as Prince Rogers Nelson Memorial Highway sign goes up"**](https://www.youtube.com/watch?v=j3V222xvaGc)
+    - in [YouTube](../../publications/u-z/youtube/index.md)
+    - on 4 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=j3V222xvaGc))
+
+----
+
+ - [**"Highway in Chanhassen officially dedicated to Prince"**](https://www.kttc.com/2023/08/03/highway-chanhassen-officially-dedicated-prince/)
+    - in [KTTC](../../publications/k-o/kttc/index.md)
+    - on 4 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.kttc.com/2023/08/03/highway-chanhassen-officially-dedicated-prince/))
+
+----
+
+ - [**"New archival footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/)
+    - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 4 August 2023
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [bootleg](../../topics/bootleg/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [Dr. Mambo's Combo](../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jeff Wagner](../../topics/jeff-wagner/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Let's Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/new-archival-footage-prince-1983-purple-rain-set-first-avenue-computer-blue/))
+
+----
+
+ - [**"New footage surfaces of Prince performing legendary 1983 "Purple Rain" set at First Avenue"**](https://www.youtube.com/watch?v=LkhY6VFdCzU)
+    - in [YouTube](../../publications/u-z/youtube/index.md)
+    - on 4 August 2023
+    - about [Computer Blue (song)](../../topics/song/computer-blue/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=LkhY6VFdCzU))
+
+----
+
+ - [**"Purple road signs go up marking Prince Rogers Nelson Memorial Highway"**](https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 4 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/08/04/purple-road-signs-go-up-marking-prince-rogers-nelson-memorial-highway/))
+
+----
+
+ - [**"MnDOT installs signs for Prince memorial highway"**](https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway)
+    - in [Fox 9](../../publications/f-j/fox-9/index.md)
+    - on 3 August 2023
+    - about [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.fox9.com/news/mndot-installs-signs-for-prince-memorial-highway))
+
+----
+
+ - [**"Prince Rogers Nelson Memorial Highway sign goes up in Chanhassen"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-sign-goes-up-in-chanhassen/)
+    - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 3 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-sign-goes-up-in-chanhassen/))
+
+----
+
+ - [**"Purple signs dedicated Minnesota highway to Prince "**](https://www.youtube.com/watch?v=zBDa5WIxfcQ)
+    - in [YouTube](../../publications/u-z/youtube/index.md)
+    - on 3 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=zBDa5WIxfcQ))
+
+----
+
+ - [**"They were gathered there today to rename this Minnesota highway after Prince -- MnDOT install Prince Rogers Nelson Memorial Highway sings along Highway 5 through Chanhassen, where the late Minnesota pop star's Paisley Park was located.  "**](https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 August 2023
+    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/))
+
+----
+
+ - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
+    - by [Jason Draper](../../authors/jason-draper/index.md)
+    - in [Dig!](../../publications/a-e/dig/index.md)
+    - on 3 August 2023
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [David Leonard](../../topics/david-leonard/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Mick Jagger](../../topics/mick-jagger/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/))
+
+----
+
+ - [**"Signs honoring Prince to go up on section of Minnesota highway on Thursday"**](https://www.mprnews.org/story/2023/08/02/signs-honoring-prince-to-go-up-on-section-of-minnesota-highway-on-thursday)
+    - in [MPR News (Minnesota Public Radio)](../../publications/k-o/mpr-news-minnesota-public-radio/index.md)
+    - on 2 August 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Mark Webster](../../topics/mark-webster/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2023/08/02/signs-honoring-prince-to-go-up-on-section-of-minnesota-highway-on-thursday))
+
+----
+
+ - [**"The Big Gigs: 10 concerts in the Twin Cities to see this week -- Highlights for Aug. 3-9 include Zach Bryan, Lionel Richie, Suki Waterhouse, We Fest and the National. "**](https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 August 2023
+    - about [Aug. 3, 1983 (event)](../../topics/event/aug-3-1983/index.md), [Baby, I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Dr. Mambo's Combo](../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let's Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/))
+
+----
+
+## July 2023 (58)
+
+ - [**"'Nothing Compares 2 U' Wasn't Sinead O'Connor's Only Prince Cover"**](https://ultimateprince.com/sinead-oconnor-prince-i-would-die-4-u/)
+    - in [ultimateprince.com](../../publications/u-z/ultimateprince-com/index.md)
+    - on 30 July 2023
+    - about [Frank Benbini](../../topics/frank-benbini/index.md), [Fun Lovin' Criminals](../../topics/fun-lovin-criminals/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [pillow fight](../../topics/pillow-fight/index.md), [Purple Reggae (album)](../../topics/album/purple-reggae/index.md), [Radio Riddler](../../topics/radio-riddler/index.md), [Rememberings (book)](../../topics/book/rememberings/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://ultimateprince.com/sinead-oconnor-prince-i-would-die-4-u/))
+
+----
+
+ - [**"For 50 years, singer Mary Jane Alm has been Minnesota's queen of near misses -- She will celebrate her golden jubilee with special guests at two Chanhassen concerts. "**](https://www.startribune.com/mary-jane-alm-mankato-minnesota-peter-yarrow-martina-mcbride-bob-gaudio-chanhassen-prince-bob-dylan/600292765/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 July 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [Minnesota Music Awards (event)](../../topics/event/minnesota-music-awards/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mary-jane-alm-mankato-minnesota-peter-yarrow-martina-mcbride-bob-gaudio-chanhassen-prince-bob-dylan/600292765/))
+
+----
+
+ - [**"Sinead O'Connor and the story of her second Prince cover - after vow 'never to sing another' -- Fun Lovin' Criminals drummer Frank Benbini first met Sinead O'Connor backstage at a charity show in Dublin they were both performing at. The pair stayed in touch and ended up collaborating on a Prince cover - but not the song she is most famous for."**](https://news.sky.com/story/sinead-oconnor-and-the-story-of-her-second-prince-cover-after-vow-never-to-sing-another-12928791)
+    - in [news.sky.com](../../publications/k-o/news-sky-com/index.md)
+    - on 28 July 2023
+    - about [Beverley Knight](../../topics/beverley-knight/index.md), [Frank Benbini](../../topics/frank-benbini/index.md), [Fun Lovin' Criminals](../../topics/fun-lovin-criminals/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Reggae (album)](../../topics/album/purple-reggae/index.md), [Radio Riddler](../../topics/radio-riddler/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://news.sky.com/story/sinead-oconnor-and-the-story-of-her-second-prince-cover-after-vow-never-to-sing-another-12928791))
+
+----
 
  - [**"‘Nothing Compares 2 U is perfect’: Sinéad O’Connor’s 10 greatest songs -- The late singer’s magnificent voice powered haunted hits about heartbreak, personal traumas, politics and sex, blending rock, folk and hip-hop beats"**](https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u)
     - in [The Guardian](../../publications/f-j/the-guardian/index.md)
@@ -74,6 +197,14 @@
 
 ----
 
+ - [**"SoundTRAX: "Purple Rain" -- SoundTRAX is a dive into notable music from iconic films and TV shows every Monday-Thursday at 8:10."**](https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain)
+    - in [www.lpm.org](../../publications/u-z/www-lpm-org/index.md)
+    - on 27 July 2023
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.lpm.org/music/2023-07-27/soundtrax-purple-rain))
+
+----
+
  - [**"The Fury of Sinéad O'Connor -- It is no measure of health to be well adjusted to a profoundly sick society"**](https://www.welcometohellworld.com/the-fury-of-sinead-oconnor-2/)
     - by [Leila Brillson](../../authors/leila-brillson/index.md)
     - in [Welcome to Hell World](../../publications/u-z/welcome-to-hell-world/index.md)
@@ -88,6 +219,14 @@
     - on 27 July 2023
     - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html))
+
+----
+
+ - [**"What Sinéad O'Connor's iconic cover of Prince song Nothing Compares 2 U is really about -- Late singer Sinéad O'Connor's greatest hit Nothing Compares 2 U was really written by iconic musician Prince, and it was never intended to be a love song at all"**](https://www.mirror.co.uk/3am/celebrity-news/what-sinad-oconnors-iconic-cover-30569789)
+    - in [mirror.co.uk](../../publications/k-o/mirror-co-uk/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Recording Industry Association of America](../../topics/recording-industry-association-of-america/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mirror.co.uk/3am/celebrity-news/what-sinad-oconnors-iconic-cover-30569789))
 
 ----
 
@@ -445,7 +584,7 @@
 
 ----
 
-## June 2023 (26)
+## June 2023 (27)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
     - by [Jae Bryson](../../authors/jae-bryson/index.md)
@@ -665,6 +804,14 @@
 
 ----
 
+ - [**"Chaka Khan and Chuck D to speak, but not perform, at Prince-centric Celebration -- The four-day event starts Thursday at Paisley Park"**](https://www.twincities.com/2023/06/05/chaka-khan-and-chuck-d-to-speak-but-not-perform-at-prince-centric-celebration/)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 5 June 2023
+    - about [Andy Beech](../../topics/andy-beech/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Come 2 My House (album)](../../topics/album/come-2-my-house/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [luthier](../../topics/luthier/index.md), [Mint Condition](../../topics/mint-condition/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/06/05/chaka-khan-and-chuck-d-to-speak-but-not-perform-at-prince-centric-celebration/))
+
+----
+
  - [**"Paisley Park Reveals Celebration 2023 Programming"**](https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming)
     - in [Shore Fire Media](../../publications/p-t/shore-fire-media/index.md)
     - on 5 June 2023
@@ -673,7 +820,7 @@
 
 ----
 
-## May 2023 (24)
+## May 2023 (25)
 
  - [**"The Big Gigs: 10 concerts (and more) to see in the Twin Cities this week -- Highlights for June 1-7 include the Yeah Yeah Yeahs, Morris Day, Brooks & Dunn, Jaedyn James and Alejandro Escovedo."**](https://www.startribune.com/twin-cities-yeah-yeah-yeahs-morris-day-brooks-and-dunn-alejandro-escovedo-jimmy-webb-jaedyn-james/600278975/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
@@ -714,6 +861,7 @@
     - by [Dave Berger](../../authors/dave-berger/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 May 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-name-looms-for-school-formerly-known-as-henry/600276941/))
 
 ----
@@ -761,6 +909,14 @@
 
 ----
 
+ - [**"Supreme Court rules against Andy Warhol’s foundation in a case about a portrait he made of Prince "**](https://www.twincities.com/2023/05/18/supreme-court-rules-against-andy-warhols-foundation-in-a-case-about-a-portrait-he-made-of-prince/)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 18 May 2023
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Joel Wachs](../../topics/joel-wachs/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/05/18/supreme-court-rules-against-andy-warhols-foundation-in-a-case-about-a-portrait-he-made-of-prince/))
+
+----
+
  - [**"Billy Porter insists &#039;fashion is my job&#039; but he&#039;ll sing new songs and Broadway faves in Minneapolis -- On his inaugural concert tour, he will preview his first album of original material since 1997."**](https://www.startribune.com/billy-porter-broadway-kinky-boots-minneapolis-justin-tranter-james-baldwin-prince-grammy-oscar-tony/600275194/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -790,7 +946,7 @@
     - by [Reg Chapman](../../authors/reg-chapman/index.md), [WCCO Staff](../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 9 May 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
 
 ----
@@ -799,7 +955,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 May 2023
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
 
 ----
@@ -808,7 +964,7 @@
     - by [Trisha Ahmed](../../authors/trisha-ahmed/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 9 May 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1))
 
 ----
@@ -834,6 +990,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 4 May 2023
+    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Mark Webster](../../topics/mark-webster/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-friends-show-up-for-press-conference-ahead-of-highway-renaming-chanhassen-paisley-park/600272469/))
 
 ----
@@ -842,7 +999,7 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 4 May 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Mark Webster](../../topics/mark-webster/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1))
 
 ----
@@ -879,7 +1036,7 @@
 
 ----
 
-## April 2023 (16)
+## April 2023 (17)
 
  - [**"Stokley, Chaka Khan and Chuck D will be part of Celebration 2023 at Prince&#039;s Paisley Park -- The annual event, June 8-11, will feature performances, panels and unreleased Prince music and concert footage."**](https://www.startribune.com/stokley-chaka-khan-chuck-d-prince-paisley-park-steeles-sounds-of-blackness-doug-e-fresh-shelby-j/600270462/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -917,7 +1074,7 @@
     - by [WCCO Staff](../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 21 April 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/))
 
 ----
@@ -935,6 +1092,14 @@
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2023
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-sharon-nelson-paisley-park-art-of-dance-brooklyn-park-iroquois/600269078/))
+
+----
+
+ - [**"Seven years after his death, MN lawmakers want to name a highway after Prince -- Highway 5 in Chanhassen would be “Prince Rogers Nelson Memorial Highway”"**](https://www.twincities.com/2023/04/21/mn-lawmakers-want-to-name-highway-for-prince/)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 21 April 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2023/04/21/mn-lawmakers-want-to-name-highway-for-prince/))
 
 ----
 
@@ -1074,6 +1239,7 @@
     - by [Briana Bierschbach](../../authors/briana-bierschbach/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 March 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-bill-moves-forward-to-name-a-stretch-of-hwy-5-for-prince/600258079/))
 
 ----

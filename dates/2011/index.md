@@ -73,7 +73,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
 
 ----
 
-## September 2011 (7)
+## September 2011 (9)
 
  - [**"Item World: Seven, seven, Original 7ven -- Local news and views."**](https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -108,6 +108,22 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
 
 ----
 
+ - [**"Stevie Nicks: ‘I turned down Prince’s offer to write ‘Purple Rain’ lyrics’ -- Ex-Fleetwood Mac singer says she was too “scared” to pen words for classic track"**](https://www.nme.com/news/music/stevie-nicks-15-1279343)
+    - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
+    - on 16 September 2011
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/stevie-nicks-15-1279343))
+
+----
+
+ - [**"Stevie Nicks: Prince asked me to write Purple Rain lyrics -- Singer turned down offer to co-write Prince smash hit after being 'overwhelmed' by the instrumental track"**](https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 16 September 2011
+    - about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2011/sep/16/stevie-nicks-prince-purple-rain))
+
+----
+
  - [**"It&#039;s a Family affair for the band fDeluxe -- After being put in a band by Prince 25 years ago, vocalists Paul Peterson and Susannah Melvoin reunite in fDeluxe."**](https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -133,7 +149,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
 
 ----
 
-## August 2011 (1)
+## August 2011 (2)
 
  - [**"The Big Gigs: Aug. 26-Sept. 1 -- Def Leppard and Steely Dan at the fair; Ke$ha at Roy Wilkins"**](https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/)
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
@@ -141,6 +157,14 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
     - on 25 August 2011
     - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/))
+
+----
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Ricky Peterson](../../topics/ricky-peterson/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
 
 ----
 

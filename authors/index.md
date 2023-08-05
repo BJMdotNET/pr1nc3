@@ -134,7 +134,7 @@
   * [Jae Bryson](./jae-bryson/index.md) (1)
   * [James Eli Shiffer](./james-eli-shiffer/index.md) (1)
   * [James Rettig](./james-rettig/index.md) (1)
-  * [Jason Draper](./jason-draper/index.md) (3)
+  * [Jason Draper](./jason-draper/index.md) (4)
   * [Jason Rantala](./jason-rantala/index.md) (1)
   * [Jay Boller](./jay-boller/index.md) (1)
   * [Jazz Monroe](./jazz-monroe/index.md) (1)
