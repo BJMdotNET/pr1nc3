@@ -9,7 +9,7 @@
   * [US Weekly](./us-weekly/index.md) (4)
   * [USA Today](./usa-today/index.md) (44)
   * [Vanity Fair](./vanity-fair/index.md) (1)
-  * [Variety](./variety/index.md) (78)
+  * [Variety](./variety/index.md) (79)
   * [VenuesNow](./venuesnow/index.md) (1)
   * [The Verge](./the-verge/index.md) (2)
   * [Vibe](./vibe/index.md) (1)

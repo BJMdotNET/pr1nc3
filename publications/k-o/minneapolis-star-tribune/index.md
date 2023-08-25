@@ -2,7 +2,7 @@
 
 ## Links by year
 
-  * [2023](./minneapolis-star-tribune-2023.md) (38)
+  * [2023](./minneapolis-star-tribune-2023.md) (39)
   * [2022](./minneapolis-star-tribune-2022.md) (31)
   * [2021](./minneapolis-star-tribune-2021.md) (43)
   * [2020](./minneapolis-star-tribune-2020.md) (39)

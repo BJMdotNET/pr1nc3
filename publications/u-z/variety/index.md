@@ -2,7 +2,7 @@
 
 ## Links by year
 
-  * [2023](./variety-2023.md) (5)
+  * [2023](./variety-2023.md) (6)
   * [2022](./variety-2022.md) (5)
   * [2021](./variety-2021.md) (1)
   * [2020](./variety-2020.md) (10)

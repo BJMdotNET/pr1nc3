@@ -2,7 +2,7 @@
 
 ## Links by year
 
-  * [2023](./billboard-2023.md) (5)
+  * [2023](./billboard-2023.md) (6)
   * [2022](./billboard-2022.md) (5)
   * [2020](./billboard-2020.md) (13)
   * [2019](./billboard-2019.md) (16)

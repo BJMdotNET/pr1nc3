@@ -1,5 +1,15 @@
 # Variety: 2023
 
+## August 2023 (1)
+
+ - [**"Prince Estate Relaunches Deluxe Reissue Campaign With Massive 7-CD ‘Diamonds and Pearls’ Set"**](https://variety.com/2023/music/news/prince-reissue-diamonds-and-pearls-1235703746/)
+    - in [Variety](../../../publications/u-z/variety/index.md)
+    - on 24 August 2023
+    - about [Alice Through The Looking Glass (song)](../../../topics/song/alice-through-the-looking-glass/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Chuck D.](../../../topics/chuck-d/index.md), [De Angela L. Duff](../../../topics/de-angela-l-duff/index.md), [Diamonds and Pearls (album)](../../../topics/album/diamonds-and-pearls/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [Gett Off (Damn Near 10 Min.) (song)](../../../topics/song/gett-off-damn-near-10-min/index.md), [Gett Off (song)](../../../topics/song/gett-off/index.md), [Glam Slam (place)](../../../topics/place/glam-slam/index.md), [Horny Pony (Version 2) (song)](../../../topics/song/horny-pony-version-2/index.md), [January 11, 1992](../../../topics/january-11-1992/index.md), [Jason Draper](../../../topics/jason-draper/index.md), [KaNisa Williams](../../../topics/kanisa-williams/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/prince-reissue-diamonds-and-pearls-1235703746/))
+
+----
+
 ## July 2023 (2)
 
  - [**"Sinéad O’Connor, Irish Singer of ‘Nothing Compares 2 U,’ Dies at 56"**](https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/)

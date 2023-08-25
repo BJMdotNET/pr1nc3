@@ -2,7 +2,7 @@
 
 ## Links by year
 
-  * [2023](./pitchfork-2023.md) (2)
+  * [2023](./pitchfork-2023.md) (3)
   * [2020](./pitchfork-2020.md) (1)
   * [2019](./pitchfork-2019.md) (6)
 
