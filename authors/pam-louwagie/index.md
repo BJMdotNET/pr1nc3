@@ -18,7 +18,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Pam Louwagie](../../authors/pam-louwagie/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
-    - about [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Hwy. 5 (place)](../../topics/place/hwy-5/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
 
 ----

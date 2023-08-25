@@ -11,11 +11,11 @@
 
 ----
 
- - [**"36 ways to celebrate New Year&#039;s Eve in the Twin Cities area -- Put some sparkle into your New Year's Eve with a pickleball bash, a sledding party or a jump in the lake."**](https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/)
+ - [**"36 ways to celebrate New Year's Eve in the Twin Cities area -- Put some sparkle into your New Year's Eve with a pickleball bash, a sledding party or a jump in the lake."**](https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/)
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 December 2022
-    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Hwy. 5 (place)](../../topics/place/hwy-5/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/))
 
 ----
