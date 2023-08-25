@@ -15,7 +15,7 @@
  - [**"They were gathered there today to rename this Minnesota highway after Prince -- MnDOT install Prince Rogers Nelson Memorial Highway sings along Highway 5 through Chanhassen, where the late Minnesota pop star's Paisley Park was located.  "**](https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 August 2023
-    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
+    - about [Augie Mueller Memorial Highway (place)](../../topics/place/augie-mueller-memorial-highway/index.md), [Hwy. 5 (place)](../../topics/place/hwy-5/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [MnDOT](../../topics/mndot/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/))
 
 ----
@@ -35,7 +35,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 May 2023
-    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - about [Hwy. 5 (place)](../../topics/place/hwy-5/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
 
 ----
@@ -65,7 +65,7 @@
     - by [Briana Bierschbach](../../authors/briana-bierschbach/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 March 2023
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Hwy. 5 (place)](../../topics/place/hwy-5/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-bill-moves-forward-to-name-a-stretch-of-hwy-5-for-prince/600258079/))
 
 ----

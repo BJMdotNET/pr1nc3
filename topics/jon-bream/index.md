@@ -1,8 +1,16 @@
 # Jon Bream
 
-## 2023 (1)
+## 2023 (2)
 
-### 2023 August (1)
+### 2023 August (2)
+
+ - [**"Prince's 'Diamonds and Pearls' to be reissued with Minneapolis live sets for bonus material -- The 1991 album is getting the deluxe-edition treatment with bonus tracks and Glam Slam and Metrodome recordings. "**](https://www.startribune.com/princes-diamonds-and-pearls-to-be-reissued-with-minneapolis-live-sets-for-bonus-material/600299451/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 August 2023
+    - about [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [Gett Off (song)](../../topics/song/gett-off/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Metrodome (place)](../../topics/place/metrodome/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Special Olympics (event)](../../topics/event/special-olympics/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princes-diamonds-and-pearls-to-be-reissued-with-minneapolis-live-sets-for-bonus-material/600299451/))
+
+<br />
 
  - [**"When Prince Debuted ‘Purple Rain’ At First Avenue: The Full Story -- During a benefit concert held at Minneapolis’ First Avenue, on 3 August 1983, Prince debuted many of his career-making ‘Purple Rain’ songs."**](https://www.thisisdig.com/feature/prince-first-avenue-3-august-1983-purple-rain-debut-full-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)

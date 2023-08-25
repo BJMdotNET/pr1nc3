@@ -1,5 +1,17 @@
 # Diamonds & Pearls (album)
 
+## 2023 (1)
+
+### 2023 August (1)
+
+ - [**"Prince & The New Power Generation’s ‘Diamonds & Pearls’ Getting Reissue With 47 Unreleased Tracks -- The massive re-release will be available in CD and vinyl variant, and will contain two hours of unseen concert footage."**](https://www.billboard.com/music/music-news/prince-diamonds-and-pearls-reissue-previously-unreleased-tracks-1235400594/)
+    - in [Billboard](../../../publications/a-e/billboard/index.md)
+    - on 24 August 2023
+    - about [Diamonds & Pearls (album)](../../../topics/album/diamonds-pearls/index.md), [Diamonds and Pearls (album)](../../../topics/album/diamonds-and-pearls/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Gett Off (song)](../../../topics/song/gett-off/index.md), [Insatiable (song)](../../../topics/song/insatiable/index.md), [Money Don’t Matter 2 Night (song)](../../../topics/song/money-don-t-matter-2-night/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [Sony Music](../../../topics/sony-music/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/music-news/prince-diamonds-and-pearls-reissue-previously-unreleased-tracks-1235400594/))
+
+----
+
 ## 2015 (1)
 
 ### 2015 February (1)

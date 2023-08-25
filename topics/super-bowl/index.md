@@ -8,7 +8,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 May 2023
-    - about [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - about [Hwy. 5 (place)](../../topics/place/hwy-5/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Lucy Rehm](../../topics/lucy-rehm/index.md), [Mark Webster](../../topics/mark-webster/index.md), [MnDOT](../../topics/mndot/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
 
 ----
@@ -747,7 +747,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Pam Louwagie](../../authors/pam-louwagie/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
-    - about [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Hwy. 5 (place)](../../topics/place/hwy-5/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
 
 <br />
