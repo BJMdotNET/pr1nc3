@@ -9429,6 +9429,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/legacy-recordings/legacy-recordings-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/legacy-recordings/legacy-recordings-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/k-o/legacy-recordings/toc.yml",
       "output": {
@@ -13391,6 +13401,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/p-t/rhino/rhino-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rhino/rhino-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rhino/rhino-2023.html"
         }
       },
       "version": ""
@@ -18686,6 +18706,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/diamonds-and-pearls-super-deluxe-edition/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/diamonds-and-pearls-super-deluxe-edition/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/diamonds-and-pearls/index.md",
       "output": {
         ".html": {
@@ -21456,6 +21486,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/de-angela-l-duff/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/de-angela-l-duff/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/debbie-gibson/index.md",
       "output": {
         ".html": {
@@ -21550,6 +21590,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/dft/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/diamonds-and-pearls-video-collection/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/diamonds-and-pearls-video-collection/index.html"
         }
       },
       "version": ""
@@ -22376,6 +22426,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/event/special-olympics/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/special-olympics/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/event/super-bowl-xli/index.md",
       "output": {
         ".html": {
@@ -22920,6 +22980,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/greazy-meal/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/greg-boe/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/greg-boe/index.html"
         }
       },
       "version": ""
@@ -23666,6 +23736,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/january-11-1992/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/january-11-1992/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/jason-draper/index.md",
       "output": {
         ".html": {
@@ -24300,6 +24380,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/kandace-springs/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/kanisa-williams/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/kanisa-williams/index.html"
         }
       },
       "version": ""
@@ -27186,6 +27276,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/arboretum-boulevard/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/arboretum-boulevard/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/armory/index.md",
       "output": {
         ".html": {
@@ -27220,6 +27320,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/audubon-road/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/augie-mueller-memorial-highway/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/augie-mueller-memorial-highway/index.html"
         }
       },
       "version": ""
@@ -27726,6 +27836,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/galpin-drive/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/galpin-drive/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/glam-slam/index.md",
       "output": {
         ".html": {
@@ -27806,6 +27926,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/hwy-5/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/hwy-5/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/illinois/index.md",
       "output": {
         ".html": {
@@ -27830,6 +27960,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/inglewood-california/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/interstate-494/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/interstate-494/index.html"
         }
       },
       "version": ""
@@ -27950,6 +28090,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/mann-s-chinese-theatre/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/metrodome/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/metrodome/index.html"
         }
       },
       "version": ""
@@ -29786,6 +29936,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/alice-through-the-looking-glass/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/alice-through-the-looking-glass/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/all-a-share-together-now/index.md",
       "output": {
         ".html": {
@@ -30346,6 +30506,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/gett-off-damn-near-10-min/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/gett-off-damn-near-10-min/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/gett-off/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/gett-off/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/girl-6/index.md",
       "output": {
         ".html": {
@@ -30430,6 +30610,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/holy-mother/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/horny-pony-version-2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/horny-pony-version-2/index.html"
         }
       },
       "version": ""
@@ -30590,6 +30780,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/insatiable-early-mix-full-version/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/insatiable-early-mix-full-version/index.html"
         }
       },
       "version": ""
