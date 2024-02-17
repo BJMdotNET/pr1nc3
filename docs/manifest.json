@@ -3075,6 +3075,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "dates/2024/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "dates/2024/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "dates/index.md",
       "output": {
         ".html": {
@@ -3893,6 +3903,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/a-e/associated-press-news/associated-press-news-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/associated-press-news/associated-press-news-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/associated-press-news/associated-press-news-2024.html"
         }
       },
       "version": ""
@@ -5770,6 +5790,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/a-e/deadline/deadline-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/deadline/deadline-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/a-e/deadline/index.md",
       "output": {
         ".html": {
@@ -7277,6 +7307,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/fox-9/fox-9-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/fox-9/fox-9-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/fox-9/index.md",
       "output": {
         ".html": {
@@ -7773,6 +7813,39 @@
         },
         ".json": {
           "relative_path": "publications/f-j/guitarworld/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/hennepintheatretrust-org/hennepintheatretrust-org-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hennepintheatretrust-org/hennepintheatretrust-org-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/hennepintheatretrust-org/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hennepintheatretrust-org/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/f-j/hennepintheatretrust-org/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hennepintheatretrust-org/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/f-j/hennepintheatretrust-org/toc.json"
         }
       },
       "version": ""
@@ -10807,6 +10880,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/k-o/mpls-st-paul-magazine/toc.yml",
       "output": {
@@ -12511,6 +12594,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/p-t/playbill/playbill-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/playbill/playbill-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/playbill/playbill-2024.html"
         }
       },
       "version": ""
@@ -15999,6 +16092,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/p-t/twincities-com-pioneer-press/twincities-com-pioneer-press-2014.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/twincities-com-pioneer-press/twincities-com-pioneer-press-2014.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/p-t/twincities-com-pioneer-press/twincities-com-pioneer-press-2016.md",
       "output": {
         ".html": {
@@ -16043,6 +16146,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/p-t/twincities-com-pioneer-press/twincities-com-pioneer-press-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/twincities-com-pioneer-press/twincities-com-pioneer-press-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/twincities-com-pioneer-press/twincities-com-pioneer-press-2024.html"
         }
       },
       "version": ""
@@ -17026,6 +17139,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/variety/variety-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/variety/variety-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/venuesnow/index.md",
       "output": {
         ".html": {
@@ -17664,6 +17787,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/wcco-cbs-minnesota/wcco-cbs-minnesota-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/wcco-cbs-minnesota/wcco-cbs-minnesota-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/wdet-org/index.md",
       "output": {
         ".html": {
@@ -17889,6 +18022,105 @@
       "output": {
         ".html": {
           "relative_path": "publications/u-z/www-abc-net-au/www-abc-net-au-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-bostonglobe-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-bostonglobe-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-bostonglobe-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-bostonglobe-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-bostonglobe-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-bostonglobe-com/www-bostonglobe-com-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-bostonglobe-com/www-bostonglobe-com-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-broadway-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-broadway-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-broadway-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-broadway-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-broadway-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-broadway-com/www-broadway-com-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-broadway-com/www-broadway-com-2024.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-dailyrecord-co-uk/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-dailyrecord-co-uk/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-dailyrecord-co-uk/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-dailyrecord-co-uk/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-dailyrecord-co-uk/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-dailyrecord-co-uk/www-dailyrecord-co-uk-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-dailyrecord-co-uk/www-dailyrecord-co-uk-2024.html"
         }
       },
       "version": ""
@@ -18253,6 +18485,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/u-z/youtube/youtube-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/youtube/youtube-2024.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/youtube/youtube-2024.html"
         }
       },
       "version": ""
@@ -19775,6 +20017,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/award/album-of-the-year/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/award/album-of-the-year/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/award/index.md",
       "output": {
         ".html": {
@@ -19879,6 +20131,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/bangles/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/bank-of-america-broadway-on-hennepin/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/bank-of-america-broadway-on-hennepin/index.html"
         }
       },
       "version": ""
@@ -20379,6 +20641,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/boy-gregory/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/branden-jacobs-jenkins/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/branden-jacobs-jenkins/index.html"
         }
       },
       "version": ""
@@ -21765,6 +22037,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/donald-macleod/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/donald-macleod/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/donald-trump/index.md",
       "output": {
         ".html": {
@@ -22439,6 +22721,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/event/super-bowl-xli/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/event/world-premiere/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/world-premiere/index.html"
         }
       },
       "version": ""
@@ -23175,6 +23467,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/hennepin-theatre-trust/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/hennepin-theatre-trust/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/henry-david-hwang/index.md",
       "output": {
         ".html": {
@@ -23219,6 +23521,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/heritage-auctions/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/hiero-veiga/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/hiero-veiga/index.html"
         }
       },
       "version": ""
@@ -24735,6 +25047,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/larry-mestel/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/larry-mestel/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/latoya-gaines/index.md",
       "output": {
         ".html": {
@@ -24889,6 +25211,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/lexus/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/lileana-blain-cruz/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/lileana-blain-cruz/index.html"
         }
       },
       "version": ""
@@ -26395,6 +26727,36 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/musical/pre-broadway/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/musical/pre-broadway/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/musical/purple-rain/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/musical/purple-rain/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/musical/stage-adaptation/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/musical/stage-adaptation/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/my-purple-heart/index.md",
       "output": {
         ".html": {
@@ -26789,6 +27151,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/orianthi/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/orin-wolf/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/orin-wolf/index.html"
         }
       },
       "version": ""
@@ -27855,6 +28227,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/glasgow/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/glasgow/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/great-american-music-hall/index.md",
       "output": {
         ".html": {
@@ -27879,6 +28261,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/hemisfair-arena/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/hennepin-avenue/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/hennepin-avenue/index.html"
         }
       },
       "version": ""
@@ -28445,6 +28837,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/secc/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/secc/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/smithsonian/index.md",
       "output": {
         ".html": {
@@ -28499,6 +28901,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/st-paul/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/state-theatre/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/state-theatre/index.html"
         }
       },
       "version": ""
@@ -28579,6 +28991,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/the-complex/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/the-garage/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/the-garage/index.html"
         }
       },
       "version": ""
@@ -28759,6 +29181,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/polly-platt/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/primary-wave-music/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/primary-wave-music/index.html"
         }
       },
       "version": ""
@@ -32305,6 +32737,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/tam-coyle/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tam-coyle/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/tamar-davis/index.md",
       "output": {
         ".html": {
@@ -32662,6 +33104,16 @@
         },
         ".json": {
           "relative_path": "topics/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/todd-duesing/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/todd-duesing/index.html"
         }
       },
       "version": ""
@@ -33482,6 +33934,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/website/prince-online-museum/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/website/purplerainbroadway-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/website/purplerainbroadway-com/index.html"
         }
       },
       "version": ""
