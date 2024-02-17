@@ -110,3 +110,6 @@ items:
 - name: 2023
   href: 2023/index.md
   homepage: 2023/index.md
+- name: 2024
+  href: 2024/index.md
+  homepage: 2024/index.md
