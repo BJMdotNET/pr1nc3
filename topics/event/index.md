@@ -24,6 +24,7 @@
   * [South By Southwest Music Festival (event)](../event/south-by-southwest-music-festival/index.md) (1)
   * [Special Olympics (event)](../event/special-olympics/index.md) (4)
   * [Super Bowl XLI (event)](../event/super-bowl-xli/index.md) (5)
+  * [world premiere (event)](../event/world-premiere/index.md) (12)
 
 ----
 

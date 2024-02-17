@@ -1477,7 +1477,7 @@
 
 ----
 
-## 2014 (1)
+## 2014 (2)
 
 ### 2014 November (1)
 
@@ -1486,6 +1486,16 @@
     - on 4 November 2014
     - about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Dave Marsh](../../topics/dave-marsh/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Inglewood, California (place)](../../topics/place/inglewood-california/index.md), [Joe Louis Arena (place)](../../topics/place/joe-louis-arena/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Madonna](../../topics/madonna/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour))
+
+----
+
+### 2014 July (1)
+
+ - [**"‘Purple Rain’ turns 30: How it made Prince a superstar"**](https://www.twincities.com/2014/07/25/purple-rain-turns-30-how-it-made-prince-a-superstar/)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 25 July 2014
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [musical](../../topics/musical/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (musical)](../../topics/musical/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2014/07/25/purple-rain-turns-30-how-it-made-prince-a-superstar/))
 
 ----
 

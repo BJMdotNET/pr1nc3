@@ -128,6 +128,9 @@ items:
 - name: album
   href: album/index.md
   homepage: album/index.md
+- name: Album of the Year (award)
+  href: award/album-of-the-year/index.md
+  homepage: award/album-of-the-year/index.md
 - name: album review
   href: album-review/index.md
   homepage: album-review/index.md
@@ -371,6 +374,9 @@ items:
 - name: Bangles
   href: bangles/index.md
   homepage: bangles/index.md
+- name: Bank of America Broadway on Hennepin
+  href: bank-of-america-broadway-on-hennepin/index.md
+  homepage: bank-of-america-broadway-on-hennepin/index.md
 - name: Barney Hoskyns
   href: barney-hoskyns/index.md
   homepage: barney-hoskyns/index.md
@@ -491,6 +497,9 @@ items:
 - name: Boy Gregory
   href: boy-gregory/index.md
   homepage: boy-gregory/index.md
+- name: Branden Jacobs-Jenkins
+  href: branden-jacobs-jenkins/index.md
+  homepage: branden-jacobs-jenkins/index.md
 - name: Bravado
   href: bravado/index.md
   homepage: bravado/index.md
@@ -1151,6 +1160,9 @@ items:
 - name: Donald L. Thorin
   href: donald-l-thorin/index.md
   homepage: donald-l-thorin/index.md
+- name: Donald MacLeod
+  href: donald-macleod/index.md
+  homepage: donald-macleod/index.md
 - name: Donald Trump
   href: donald-trump/index.md
   homepage: donald-trump/index.md
@@ -1547,6 +1559,9 @@ items:
 - name: Glam Slam Ulysses
   href: glam-slam-ulysses/index.md
   homepage: glam-slam-ulysses/index.md
+- name: Glasgow (place)
+  href: place/glasgow/index.md
+  homepage: place/glasgow/index.md
 - name: Global Music Rights
   href: global-music-rights/index.md
   homepage: global-music-rights/index.md
@@ -1667,9 +1682,15 @@ items:
 - name: HemisFair Arena (place)
   href: place/hemisfair-arena/index.md
   homepage: place/hemisfair-arena/index.md
+- name: Hennepin Avenue (place)
+  href: place/hennepin-avenue/index.md
+  homepage: place/hennepin-avenue/index.md
 - name: Hennepin County (place)
   href: place/hennepin-county/index.md
   homepage: place/hennepin-county/index.md
+- name: Hennepin Theatre Trust
+  href: hennepin-theatre-trust/index.md
+  homepage: hennepin-theatre-trust/index.md
 - name: Henry David Hwang
   href: henry-david-hwang/index.md
   homepage: henry-david-hwang/index.md
@@ -1685,6 +1706,9 @@ items:
 - name: Heritage Auctions
   href: heritage-auctions/index.md
   homepage: heritage-auctions/index.md
+- name: Hiero Veiga
+  href: hiero-veiga/index.md
+  homepage: hiero-veiga/index.md
 - name: Hilton Als
   href: hilton-als/index.md
   homepage: hilton-als/index.md
@@ -2228,6 +2252,9 @@ items:
 - name: Larry King
   href: larry-king/index.md
   homepage: larry-king/index.md
+- name: Larry Mestel
+  href: larry-mestel/index.md
+  homepage: larry-mestel/index.md
 - name: Last Call (album)
   href: album/last-call/index.md
   homepage: album/last-call/index.md
@@ -2297,6 +2324,9 @@ items:
 - name: Lexus
   href: lexus/index.md
   homepage: lexus/index.md
+- name: Lileana Blain-Cruz
+  href: lileana-blain-cruz/index.md
+  homepage: lileana-blain-cruz/index.md
 - name: Lincoln Square Prods.
   href: lincoln-square-prods/index.md
   homepage: lincoln-square-prods/index.md
@@ -2840,6 +2870,9 @@ items:
 - name: musical
   href: musical/index.md
   homepage: musical/index.md
+- name: musical
+  href: musical/index.md
+  homepage: musical/index.md
 - name: Musicology (album)
   href: album/musicology/index.md
   homepage: album/musicology/index.md
@@ -3068,6 +3101,9 @@ items:
 - name: Originals (album)
   href: album/originals/index.md
   homepage: album/originals/index.md
+- name: Orin Wolf
+  href: orin-wolf/index.md
+  homepage: orin-wolf/index.md
 - name: Orono (place)
   href: place/orono/index.md
   homepage: place/orono/index.md
@@ -3287,12 +3323,18 @@ items:
 - name: Possessed (song)
   href: song/possessed/index.md
   homepage: song/possessed/index.md
+- name: pre-Broadway (musical)
+  href: musical/pre-broadway/index.md
+  homepage: musical/pre-broadway/index.md
 - name: Prettyman (song)
   href: song/prettyman/index.md
   homepage: song/prettyman/index.md
 - name: Primary Wave
   href: primary-wave/index.md
   homepage: primary-wave/index.md
+- name: Primary Wave Music
+  href: primary-wave-music/index.md
+  homepage: primary-wave-music/index.md
 - name: Prince & The Revolution
   href: prince-the-revolution/index.md
   homepage: prince-the-revolution/index.md
@@ -3407,6 +3449,9 @@ items:
 - name: Purple Rain (movie)
   href: movie/purple-rain/index.md
   homepage: movie/purple-rain/index.md
+- name: Purple Rain (musical)
+  href: musical/purple-rain/index.md
+  homepage: musical/purple-rain/index.md
 - name: Purple Rain (song)
   href: song/purple-rain/index.md
   homepage: song/purple-rain/index.md
@@ -3416,6 +3461,9 @@ items:
 - name: Purple Reggae (album)
   href: album/purple-reggae/index.md
   homepage: album/purple-reggae/index.md
+- name: PurpleRainBroadway.com (website)
+  href: website/purplerainbroadway-com/index.md
+  homepage: website/purplerainbroadway-com/index.md
 - name: Q-Tip
   href: q-tip/index.md
   homepage: q-tip/index.md
@@ -3680,6 +3728,9 @@ items:
 - name: Screwdriver (song)
   href: song/screwdriver/index.md
   homepage: song/screwdriver/index.md
+- name: SECC (place)
+  href: place/secc/index.md
+  homepage: place/secc/index.md
 - name: Segway
   href: segway/index.md
   homepage: segway/index.md
@@ -3878,6 +3929,9 @@ items:
 - name: Stacia Lang
   href: stacia-lang/index.md
   homepage: stacia-lang/index.md
+- name: stage adaptation (musical)
+  href: musical/stage-adaptation/index.md
+  homepage: musical/stage-adaptation/index.md
 - name: Stand Back (song)
   href: song/stand-back/index.md
   homepage: song/stand-back/index.md
@@ -3893,6 +3947,9 @@ items:
 - name: State Fair
   href: state-fair/index.md
   homepage: state-fair/index.md
+- name: State Theatre (place)
+  href: place/state-theatre/index.md
+  homepage: place/state-theatre/index.md
 - name: Steve Fargnoli
   href: steve-fargnoli/index.md
   homepage: steve-fargnoli/index.md
@@ -3995,6 +4052,9 @@ items:
 - name: Talking Heads
   href: talking-heads/index.md
   homepage: talking-heads/index.md
+- name: Tam Coyle
+  href: tam-coyle/index.md
+  homepage: tam-coyle/index.md
 - name: Tamar Davis
   href: tamar-davis/index.md
   homepage: tamar-davis/index.md
@@ -4097,6 +4157,9 @@ items:
 - name: The Family
   href: the-family/index.md
   homepage: the-family/index.md
+- name: The Garage (place)
+  href: place/the-garage/index.md
+  homepage: place/the-garage/index.md
 - name: The Glamorous Life (album)
   href: album/the-glamorous-life/index.md
   homepage: album/the-glamorous-life/index.md
@@ -4232,6 +4295,9 @@ items:
 - name: Today Show (TV show)
   href: tv-show/today-show/index.md
   homepage: tv-show/today-show/index.md
+- name: Todd Duesing
+  href: todd-duesing/index.md
+  homepage: todd-duesing/index.md
 - name: Tom Moon
   href: tom-moon/index.md
   homepage: tom-moon/index.md
@@ -4553,6 +4619,9 @@ items:
 - name: World Party
   href: world-party/index.md
   homepage: world-party/index.md
+- name: world premiere (event)
+  href: event/world-premiere/index.md
+  homepage: event/world-premiere/index.md
 - name: Worst Actor (award)
   href: award/worst-actor/index.md
   homepage: award/worst-actor/index.md

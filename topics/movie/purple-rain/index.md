@@ -624,9 +624,9 @@
 
 ----
 
-## 2014 (2)
+## 2014 (3)
 
-### 2014 July (2)
+### 2014 July (3)
 
  - [**"Apollonia shares her near-death experience on the set of Purple Rain"**](https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/)
     - by [Andrea Swensson](../../../authors/andrea-swensson/index.md)
@@ -643,6 +643,14 @@
     - on 26 July 2014
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
+
+<br />
+
+ - [**"‘Purple Rain’ turns 30: How it made Prince a superstar"**](https://www.twincities.com/2014/07/25/purple-rain-turns-30-how-it-made-prince-a-superstar/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 25 July 2014
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [musical](../../../topics/musical/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (musical)](../../../topics/musical/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2014/07/25/purple-rain-turns-30-how-it-made-prince-a-superstar/))
 
 ----
 

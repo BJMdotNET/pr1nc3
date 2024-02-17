@@ -1061,9 +1061,9 @@
 
 ----
 
-## 2014 (1)
+## 2014 (2)
 
-### 2014 July (1)
+### 2014 July (2)
 
  - [**"Apollonia shares her near-death experience on the set of Purple Rain"**](https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/)
     - by [Andrea Swensson](../../../authors/andrea-swensson/index.md)
@@ -1071,6 +1071,14 @@
     - on 28 July 2014
     - about [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Cavallo, Ruffalo, and Fargnoli](../../../topics/cavallo-ruffalo-and-fargnoli/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nina Peebles](../../../topics/nina-peebles/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/))
+
+<br />
+
+ - [**"‘Purple Rain’ turns 30: How it made Prince a superstar"**](https://www.twincities.com/2014/07/25/purple-rain-turns-30-how-it-made-prince-a-superstar/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 25 July 2014
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [musical](../../../topics/musical/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (musical)](../../../topics/musical/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2014/07/25/purple-rain-turns-30-how-it-made-prince-a-superstar/))
 
 ----
 

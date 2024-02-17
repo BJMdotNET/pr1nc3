@@ -1,5 +1,6 @@
 # award
 
+  * [Album of the Year (award)](../award/album-of-the-year/index.md) (1)
   * [Worst Actor (award)](../award/worst-actor/index.md) (1)
   * [Worst Director (award)](../award/worst-director/index.md) (2)
   * [Worst Film (award)](../award/worst-film/index.md) (1)

@@ -56,7 +56,7 @@
   * [PlectrumElectrum (album)](../album/plectrumelectrum/index.md) (2)
   * [Prince and The Revolution: Live (album)](../album/prince-and-the-revolution-live/index.md) (3)
   * [Prince Anthology: 1995-2010 (album)](../album/prince-anthology-1995-2010/index.md) (8)
-  * [Purple Rain (album)](../album/purple-rain/index.md) (48)
+  * [Purple Rain (album)](../album/purple-rain/index.md) (49)
   * [Purple Reggae (album)](../album/purple-reggae/index.md) (2)
   * [Rave In2 the Joy Fantastic (album)](../album/rave-in2-the-joy-fantastic/index.md) (6)
   * [Rave Un2 the Joy Fantastic (album)](../album/rave-un2-the-joy-fantastic/index.md) (14)
