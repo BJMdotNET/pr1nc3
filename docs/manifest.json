@@ -1,6 +1,5 @@
 {
-  "homepages": [],
-  "source_base_path": "C:/_projects/_github/news-maintainer/Website",
+  "source_base_path": "C:/_src/_personal/news-maintainer/Website",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -33708,7 +33707,6 @@
       "version": ""
     }
   ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
