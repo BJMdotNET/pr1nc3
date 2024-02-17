@@ -2,6 +2,7 @@
 
 ## Links by year
 
+  * [2024](./playbill-2024.md) (1)
   * [2018](./playbill-2018.md) (1)
   * [2016](./playbill-2016.md) (2)
 

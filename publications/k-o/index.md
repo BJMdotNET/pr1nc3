@@ -46,7 +46,7 @@
   * [mirror.co.uk](./mirror-co-uk/index.md) (2)
   * [Mixdown](./mixdown/index.md) (3)
   * [morgenpost.de](./morgenpost-de/index.md) (1)
-  * [Mpls.St.Paul Magazine](./mpls-st-paul-magazine/index.md) (8)
+  * [Mpls.St.Paul Magazine](./mpls-st-paul-magazine/index.md) (9)
   * [Mpls.St.Paul Magazine (HTTP)](./mpls-st-paul-magazine-http/index.md) (2)
   * [MPR News (Minnesota Public Radio)](./mpr-news-minnesota-public-radio/index.md) (6)
   * [msn entertainment](./msn-entertainment/index.md) (1)

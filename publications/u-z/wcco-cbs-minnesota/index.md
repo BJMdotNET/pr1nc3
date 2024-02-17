@@ -2,6 +2,7 @@
 
 ## Links by year
 
+  * [2024](./wcco-cbs-minnesota-2024.md) (2)
   * [2023](./wcco-cbs-minnesota-2023.md) (12)
   * [2022](./wcco-cbs-minnesota-2022.md) (13)
   * [2021](./wcco-cbs-minnesota-2021.md) (1)

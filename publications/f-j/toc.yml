@@ -56,6 +56,9 @@ items:
 - name: GuitarWorld
   href: guitarworld/index.md
   homepage: guitarworld/index.md
+- name: hennepintheatretrust.org
+  href: hennepintheatretrust-org/index.md
+  homepage: hennepintheatretrust-org/index.md
 - name: Herald Sun
   href: herald-sun/index.md
   homepage: herald-sun/index.md

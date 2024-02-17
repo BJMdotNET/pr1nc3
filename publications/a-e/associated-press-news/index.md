@@ -2,6 +2,7 @@
 
 ## Links by year
 
+  * [2024](./associated-press-news-2024.md) (1)
   * [2023](./associated-press-news-2023.md) (4)
   * [2022](./associated-press-news-2022.md) (11)
   * [2021](./associated-press-news-2021.md) (24)

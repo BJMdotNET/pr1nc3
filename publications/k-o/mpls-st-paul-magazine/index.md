@@ -2,6 +2,7 @@
 
 ## Links by year
 
+  * [2024](./mpls-st-paul-magazine-2024.md) (1)
   * [2023](./mpls-st-paul-magazine-2023.md) (2)
   * [2022](./mpls-st-paul-magazine-2022.md) (1)
   * [2021](./mpls-st-paul-magazine-2021.md) (3)
